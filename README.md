@@ -2,7 +2,7 @@
 - [Tabla de Contenido](#tabla-de-contenido)
   - [Información General](#información-general)
   - [Screenshot](#screenshot)
-- [Technologies](#technologies)
+- [Tecnologías](#tecnologías)
 - [Installation](#installation)
 - [Collaboration](#collaboration)
 - [FAQs](#faqs)
@@ -10,13 +10,15 @@
 ***
 La siguiente API conecta al sitio web https://pokeapi.co/ en modo consulta mediante el método GET, el cual muestra foto, nombre y número del Pokemon
 ### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
-## Technologies
+![alt text](<Captura de pantalla (298).png>)
+## Tecnologías
 ***
-A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+Se usaron las siguiente tecnologias en el proyecto:
+* [Npm](https://example.com): Version 10.9.0
+* [Vite](https://example.com): Version 2.34
+* [JavaScript](https://example.com): Version 1234
+* [HTML](https://example.com): Version 1234
+* [CSS](https://example.com): Version 1234
 ## Installation
 ***
 A little intro about the installation. 
