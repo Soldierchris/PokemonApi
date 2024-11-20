@@ -23,7 +23,7 @@ async function searchPokemon(){
         <img src="${data.sprites.front_default}" alt="${data.name}">
         <p>Numero:${data.id}</p>
         <p>Altura:${data.height /10}m</p>
-        <p>Peso: ${data.weight /10}</p>
+        <p>Peso: ${data.weight /10} Kg</p>
         `;
         
     } catch (error) {
